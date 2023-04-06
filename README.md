@@ -48,6 +48,6 @@ When creating the VM, allow it to create a new Virtual Network (Vnet)
 </p>
 <p><p>
 
-After allowing the installation files to complete downloading and configuring the virtual machines and network install osTicket.
+Allow the installation files to complete downloading and configure the virtual machines and network.Afterwords install osTicket onto the VM.
 </p>
 <br />
